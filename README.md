@@ -13,7 +13,6 @@ Utilizing Wireshark to inspect packet data and apply filters to sort through pac
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
-- <b>Wireshark</b>
 
 <h2>Walk-through:</h2>
 
