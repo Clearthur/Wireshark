@@ -13,12 +13,13 @@ Utilizing Wireshark to inspect packet data and apply filters to sort through pac
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
+- <b>Wireshark</b>
 
 <h2>Walk-through:</h2>
 
 <p align="center">
 Start by opening Wireshark and performing a scan of the network to capture traffic: <br/>
-<img src="Login.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="first.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Selected Virtual machines and followed the steps to create  virtual machines including creating usernames and passwords for all VM's:  <br/>
